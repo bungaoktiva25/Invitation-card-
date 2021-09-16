@@ -1,0 +1,22 @@
+
+body {
+	background-color: white;
+	background-image: url(gambar2.png);
+}
+h1 {
+	font-family: arial, verdana, sans-serif;
+	font-size: 50px;
+	font-variant: small-caps;
+	font-style: italic;
+	color: white;
+}
+h2 {
+	font-family: georgia, serif;
+	line-height: 50px;
+	color: white;
+}
+p {
+	font-family: georgia, serif;
+	line-height: 50px;
+	color: white;
+}
